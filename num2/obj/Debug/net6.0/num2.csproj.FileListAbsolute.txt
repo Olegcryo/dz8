@@ -1,0 +1,15 @@
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.csproj.AssemblyReference.cache
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.GeneratedMSBuildEditorConfig.editorconfig
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.AssemblyInfoInputs.cache
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.AssemblyInfo.cs
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.csproj.CoreCompileInputs.cache
+D:\shlack\dz8\num2\bin\Debug\net6.0\num2.exe
+D:\shlack\dz8\num2\bin\Debug\net6.0\num2.deps.json
+D:\shlack\dz8\num2\bin\Debug\net6.0\num2.runtimeconfig.json
+D:\shlack\dz8\num2\bin\Debug\net6.0\num2.dll
+D:\shlack\dz8\num2\bin\Debug\net6.0\num2.pdb
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.dll
+D:\shlack\dz8\num2\obj\Debug\net6.0\refint\num2.dll
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.pdb
+D:\shlack\dz8\num2\obj\Debug\net6.0\num2.genruntimeconfig.cache
+D:\shlack\dz8\num2\obj\Debug\net6.0\ref\num2.dll
